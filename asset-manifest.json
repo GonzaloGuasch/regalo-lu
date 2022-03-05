@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GonzaloGuasch/regalo-lu/static/css/main.f5992b11.css",
+    "main.js": "/GonzaloGuasch/regalo-lu/static/js/main.02264ae1.js",
+    "static/js/787.6605e32a.chunk.js": "/GonzaloGuasch/regalo-lu/static/js/787.6605e32a.chunk.js",
+    "index.html": "/GonzaloGuasch/regalo-lu/index.html",
+    "main.f5992b11.css.map": "/GonzaloGuasch/regalo-lu/static/css/main.f5992b11.css.map",
+    "main.02264ae1.js.map": "/GonzaloGuasch/regalo-lu/static/js/main.02264ae1.js.map",
+    "787.6605e32a.chunk.js.map": "/GonzaloGuasch/regalo-lu/static/js/787.6605e32a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5992b11.css",
+    "static/js/main.02264ae1.js"
+  ]
+}
